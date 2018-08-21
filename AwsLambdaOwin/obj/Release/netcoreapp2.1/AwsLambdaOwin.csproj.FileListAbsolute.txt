@@ -1,0 +1,11 @@
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.csproj.CoreCompileInputs.cache
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.AssemblyInfoInputs.cache
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.AssemblyInfo.cs
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\bin\Release\netcoreapp2.1\AwsLambdaOwin.deps.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\bin\Release\netcoreapp2.1\AwsLambdaOwin.dll
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\bin\Release\netcoreapp2.1\AwsLambdaOwin.pdb
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.dll
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.pdb
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\bin\Release\netcoreapp2.1\AwsLambdaOwin.runtimeconfig.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\bin\Release\netcoreapp2.1\AwsLambdaOwin.runtimeconfig.dev.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AwsLambdaOwin\obj\Release\netcoreapp2.1\AwsLambdaOwin.csprojAssemblyReference.cache

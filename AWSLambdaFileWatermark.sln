@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaFileWatermark", "AWSLambdaFileWatermark\AWSLambdaFileWatermark.csproj", "{A3E5C9E4-6673-4CE4-A549-5B06D670D30D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{70F9E8A0-760A-4FE2-9351-D984694CFBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsLambdaOwin", "AwsLambdaOwin\AwsLambdaOwin.csproj", "{83D229A6-89F3-482C-AB4E-0A027D05DCB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E5C9E4-6673-4CE4-A549-5B06D670D30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E5C9E4-6673-4CE4-A549-5B06D670D30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E5C9E4-6673-4CE4-A549-5B06D670D30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E5C9E4-6673-4CE4-A549-5B06D670D30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F9E8A0-760A-4FE2-9351-D984694CFBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F9E8A0-760A-4FE2-9351-D984694CFBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F9E8A0-760A-4FE2-9351-D984694CFBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F9E8A0-760A-4FE2-9351-D984694CFBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D229A6-89F3-482C-AB4E-0A027D05DCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D229A6-89F3-482C-AB4E-0A027D05DCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D229A6-89F3-482C-AB4E-0A027D05DCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D229A6-89F3-482C-AB4E-0A027D05DCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5357533F-2295-4019-BDAD-A246BF5602CD}
+	EndGlobalSection
+EndGlobal

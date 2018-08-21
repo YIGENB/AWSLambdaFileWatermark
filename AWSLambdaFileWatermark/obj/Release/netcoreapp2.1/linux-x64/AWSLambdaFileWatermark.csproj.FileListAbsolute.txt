@@ -1,0 +1,15 @@
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\font\SIMFANG.TTF
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.deps.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.runtimeconfig.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.runtimeconfig.dev.json
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.dll
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.pdb
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.csprojAssemblyReference.cache
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.csproj.CoreCompileInputs.cache
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.AssemblyInfoInputs.cache
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.AssemblyInfo.cs
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.dll
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.pdb
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AwsLambdaOwin.dll
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\linux-x64\AwsLambdaOwin.pdb
+E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\obj\Release\netcoreapp2.1\linux-x64\AWSLambdaFileWatermark.csproj.CopyComplete

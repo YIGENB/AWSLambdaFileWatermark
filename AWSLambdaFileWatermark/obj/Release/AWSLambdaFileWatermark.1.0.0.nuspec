@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AWSLambdaFileWatermark</id>
+    <version>1.0.0</version>
+    <authors>AWSLambdaFileWatermark</authors>
+    <owners>AWSLambdaFileWatermark</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="AWSSDK.Core" version="3.3.24.6" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.S3" version="3.3.18.6" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.S3Events" version="1.0.2" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Serialization.Json" version="1.3.0" exclude="Build,Analyzers" />
+        <dependency id="iTextSharp.LGPLv2.Core" version="1.4.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\AWSLambdaFileWatermark.runtimeconfig.json" target="lib\netcoreapp2.1\AWSLambdaFileWatermark.runtimeconfig.json" />
+    <file src="E:\项目\aws文件水印\AWSLambdaFileWatermark\AWSLambdaFileWatermark\bin\Release\netcoreapp2.1\AWSLambdaFileWatermark.dll" target="lib\netcoreapp2.1\AWSLambdaFileWatermark.dll" />
+  </files>
+</package>
